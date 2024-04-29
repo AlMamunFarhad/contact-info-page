@@ -1,0 +1,112 @@
+/*========== Contact info============ */
+section {
+  background-color: #f7f9fc;
+  padding-bottom: 100px;
+}
+section .main-content h3 {
+  font-size: 17px;
+  padding-bottom: 20px;
+  padding-top: 22%;
+}
+
+section .contact-info ul li {
+  color: #000000;
+  opacity: 0.4;
+  font-weight: 500;
+  font-size: 1rem;
+  padding-left: 20px;
+}
+section .col-md-5 h3 {
+  font-size: 17px;
+  padding-bottom: 20px;
+}
+section .contact-info .mess-icon i {
+  font-size: 28px;
+  color: #5b78f6;
+}
+section .contact-info .mess-icon {
+  width: 4.3rem;
+  height: 70px;
+  text-align: center;
+  background: #ffffff;
+  padding: 21px 0;
+  border-radius: 10px;
+}
+section .social-icon i {
+  width: 5.2rem;
+  height: 5.2rem;
+  background: #ffffff;
+  border-radius: 100px;
+  font-size: 32px;
+  padding: 25px 25px;
+  color: #5b78f6;
+  transition: all 100ms ease-in-out;
+}
+section .social-icon i:hover {
+  color: #000;
+}
+section .social-icon .iconoir-twitter {
+  margin-left: 20px;
+}
+section .social-icon .iconoir-instagram {
+  margin-left: 20px;
+}
+
+/*========== Contact form============ */
+
+.col-md-7 .contact-form {
+  background: #ffffff;
+  border-radius: 10px;
+  margin-top: 15%;
+  opacity: 0.94;
+}
+.col-md-7 .contact-form .form-content {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 25px;
+}
+.col-md-7 .contact-form .form-content h1 {
+  padding-top: 40px;
+}
+.col-md-7 .contact-form .form-content span {
+  color: #5b78f6;
+}
+.col-md-7 .contact-form .form-group {
+  padding: 10px 40px;
+}
+.col-md-7 .contact-form .form-group input {
+  border: none;
+  background: #fbfbfc;
+  padding: 14px 18px;
+  box-shadow: none;
+  border-radius: 10px;
+}
+
+.contact-form .form-group textarea {
+  border: none;
+  background: #fbfbfc;
+  box-shadow: none;
+  border-radius: 10px;
+  padding: 13px 20px;
+  opacity: 0.94;
+}
+.contact-form .form-group button {
+  padding: 13px 0;
+  margin-top: 1rem;
+  margin-bottom: 2.5rem;
+  transition: all 200ms ease-in-out;
+  border: none;
+  border-radius: 10px;
+}
+.contact-form .form-group .bg-dark:hover {
+  background: #5b78f6 !important;
+}
+
+/* =============== card section================ */
+
+/* section .card img {
+  
+} */
+section .card-body h5 {
+  font-size: 10px;
+}
